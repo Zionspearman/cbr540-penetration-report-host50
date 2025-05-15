@@ -20,7 +20,8 @@ This repository contains a full penetration test conducted against IP address `5
 - **Apache Tomcat Vulnerabilities** – Default files and outdated version
 
 ## 📄 Report Contents
-- Full PDF Report: [`Penetration_Testing_Report_for_Host_50.pdf`](./report/Penetration_Testing_Report_for_Host_50.pdf)
+- Full PDF Report: [Penetration_Testing_Report_for_Host_50.pdf.pdf](https://github.com/user-attachments/files/20219282/Penetration_Testing_Report_for_Host_50.pdf.pdf)
+
 - Vulnerability descriptions
 - Exploit steps with Metasploit
 - Post-exploitation findings (captured flags, user accounts, etc.)
